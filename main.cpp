@@ -1,4 +1,4 @@
-#include "library.cpp"
+#include "library.h"
 void sort(Node* &, Node* );//after this call the static array will sort in ascending order by the code of the book
 void sortPerson(Occupation* &, Occupation* );
 
