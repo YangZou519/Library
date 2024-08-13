@@ -1,5 +1,5 @@
-#ifndef Zou_project2
-#define Zou_project2
+#ifndef LIBRARY_H
+#define LIBRARY_H
 
 #include <iostream>
 #include <string>
